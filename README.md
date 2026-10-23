@@ -1,5 +1,4 @@
 # kod_asistanim
-# kod_asistanimz
 Proje Yazarı: Bedirhan Mehmet ÇAKMAK
 # Projenin Ada: Kod-Asistan v8.1
 ## Projenin Amacı: Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcz olacak bir dijital asistan tasarlamak
