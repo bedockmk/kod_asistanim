@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Sayfa-1" id="bCrMX-7u4-QpQzD9NOvQ">
+    <mxGraphModel dx="1704" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ij86oZ4BdC2KZGYjTA1u-4" edge="1" parent="1" source="ij86oZ4BdC2KZGYjTA1u-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="ij86oZ4BdC2KZGYjTA1u-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ij86oZ4BdC2KZGYjTA1u-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&amp;nbsp;BAŞLA&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="294" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ij86oZ4BdC2KZGYjTA1u-8" edge="1" parent="1" source="ij86oZ4BdC2KZGYjTA1u-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="ij86oZ4BdC2KZGYjTA1u-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ij86oZ4BdC2KZGYjTA1u-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Kullanıcıdan &quot;isim&quot; verisini al&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="310" x="259" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ij86oZ4BdC2KZGYjTA1u-9" edge="1" parent="1" source="ij86oZ4BdC2KZGYjTA1u-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="ij86oZ4BdC2KZGYjTA1u-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ij86oZ4BdC2KZGYjTA1u-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mesaj = “Hoş Geldiniz Sayın ” + isim" vertex="1">
+          <mxGeometry height="80" width="280" x="274" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ij86oZ4BdC2KZGYjTA1u-11" edge="1" parent="1" source="ij86oZ4BdC2KZGYjTA1u-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="ij86oZ4BdC2KZGYjTA1u-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ij86oZ4BdC2KZGYjTA1u-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ekrana “mesaj” değişkenini yazdır.&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="246" x="291" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="ij86oZ4BdC2KZGYjTA1u-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;BİTİR&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="600" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
